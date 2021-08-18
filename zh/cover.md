@@ -1,6 +1,6 @@
 ![logo](images/logo.png)
 
-# Maxthon Help
+# 傲游帮助
 
  **让自由前所未有**
 
@@ -10,4 +10,3 @@
 
 [常见功能](#general)
 [特色功能](#unique)
-
